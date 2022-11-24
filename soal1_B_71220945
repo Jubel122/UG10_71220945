@@ -1,0 +1,8 @@
+print("pilihlah salah satu bangun ruang yang ingin di hitung volumenya")
+print("Limas")
+print("bola")
+print("Prisma")
+print("kerucut")
+pilihan = int(input("masukan pilihan anda:  "))
+pilihan == 1 
+

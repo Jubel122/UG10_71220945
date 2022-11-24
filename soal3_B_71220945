@@ -1,0 +1,4 @@
+a = input("Masukkan N: ")
+
+for  in range(1, int(a)+1):
+ print ()
